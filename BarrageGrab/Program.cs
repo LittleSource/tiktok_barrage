@@ -45,7 +45,7 @@ namespace BarrageGrab
             {
                 case 0:
                     //Console.WriteLine("0工具被强制关闭"); //Ctrl+C关闭  
-                    //server.Close();
+                    server.Close();
                     break;
                 case 2:
                     Console.WriteLine("2工具被强制关闭");//按控制台关闭按钮关闭

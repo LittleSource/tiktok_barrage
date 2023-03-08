@@ -16,9 +16,10 @@ namespace BarrageGrab.Proxy
         //弹幕服务域名
         protected string[] barrageWsHostNames = new string[]
         {
-            "webcast3-ws-web-hl.douyin.com",
-            "webcast3-ws-web-lf.douyin.com",
-            "frontier-im.douyin.com"
+            "webcast100-ws-web-lf.amemv.com",
+            "webcast-pc.amemv.com",
+            "frontier-im.douyin.com",
+            "webcast100-ws-web-lq.amemv.com"
         };
 
 
